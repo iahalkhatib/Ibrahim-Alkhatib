@@ -12,7 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocol](https://github.com/iahalkhatib/Azure-Network-Protocols)
 
 - <b>Linux</b>
-  - [Install Suricata & TCPdump using APT](https://github.com/iahalkhatib/Bash-Shell-Install-Uninstall-Using-APT)
+  - [Installing Suricata & TCPdump using APT on VM running Debian-Based Distribution of Linux](https://github.com/iahalkhatib/Bash-Shell-Install-Uninstall-Using-APT)
 
 <h2>🤳 Connect with me:</h2>
 
