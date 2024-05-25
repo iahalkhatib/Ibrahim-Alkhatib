@@ -14,6 +14,7 @@
 - <b>Linux</b>
   - [Installing Suricata & TCPdump using APT on VM running Debian-Based Distribution of Linux](https://github.com/iahalkhatib/Bash-Shell-Install-Uninstall-Using-APT)
   - [Examine Input & Output in the Shell using "echo" "expr" & "clear" commands on VM running Debian-Based Distribution of Linux](https://github.com/iahalkhatib/Examine-Input-Output-in-the-Shell-on-Linux-Debian-Based-System-Lab-2)
+  - [Search for Files and return specific information from files in the Shell using "grep" & "piping" commands on VM running Debian-Based Distribution of Linux](https://github.com/iahalkhatib/Using-grep-piping-commands-in-the-Shell-Lab-3)
 
 <h2>🤳 Connect with me:</h2>
 
