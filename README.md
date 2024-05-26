@@ -20,7 +20,11 @@
     
   - [Use Linux commands to modify a Directory structure and the files it contains and use "nano" text editor to add text to the file](https://github.com/iahalkhatib/Using-grep-piping-commands-in-the-Shell-Lab-3) 
 
-  - [Manage Authorization for Files, Hidden Files, & Directories](https://github.com/iahalkhatib/Manage-Authorization-Change-File-Hidden-File-Directory-Permissions-Lab-5) 
+  - [Manage Authorization for Files, Hidden Files, & Directories](https://github.com/iahalkhatib/Manage-Authorization-Change-File-Hidden-File-Directory-Permissions-Lab-5)
+
+  - [Add a new user, add a user group, change user premissions, delete a user]( https://github.com/iahalkhatib/Add-New-User-Assign-File-Ownership-Add-User-to-2nd-Group-Delete-User-Lab-6)
+
+  - [Get short description, display the man pages for a cmd, and find commands based on keywords]( https://github.com/iahalkhatib/Man-Whatis-Apropos-Commands-Lab-7)
 
 
 
