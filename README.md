@@ -24,7 +24,7 @@
 
   - [Add a new user, add a user group, change user premissions, delete a user]( https://github.com/iahalkhatib/Add-New-User-Assign-File-Ownership-Add-User-to-2nd-Group-Delete-User-Lab-6)
 
-  - [Get short description, display the man pages for a cmd, and find commands based on keywords]( https://github.com/iahalkhatib/Man-Whatis-Apropos-Commands-Lab-7)
+  - [Get short description, display the "man" pages for a cmd, and find commands based on keywords]( https://github.com/iahalkhatib/Man-Whatis-Apropos-Commands-Lab-7)
 
 
 
@@ -32,7 +32,7 @@
 <h2>🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
