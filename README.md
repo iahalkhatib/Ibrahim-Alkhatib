@@ -8,7 +8,12 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/iahalkhatib/osTicket-Ticket-Lifecycle-Examples)
 
 - <b>Microsoft Azure</b>
+  - [Intro into Basics of Azure Set up](https://github.com/iahalkhatib/Azure-Basics-Create-Subscription-First-Resource-Lab-1-)
+
+  - [Starting with VMs, Networking, and Wireshark in Azure](https://github.com/iahalkhatib/Azure-Networking-and-Wireshark-Lab-2)
+
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/iahalkhatib/Configure-AD-Azure)
+ 
   - [Network Security Groups (NSGs) and Inspecting Network Protocol](https://github.com/iahalkhatib/Azure-Network-Protocols)
 
 - <b>Linux</b>
