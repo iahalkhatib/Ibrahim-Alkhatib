@@ -14,14 +14,16 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 <h2 align="center">Labs/Projects</h2>
 
+<br>
 
 ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/e971fc24-608c-464d-97e2-b7292eea768d)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites, Installation, Post-Installation Configuration, and Lifecycle](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-)
  
-    
- 
+<br>
+<br>
+
 ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/556de2de-70e2-463f-b41e-4766205e1b6b)
 
 - <b>Microsoft Azure</b>
@@ -34,7 +36,8 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
   - [Network Security Groups (NSGs) and Inspecting Network Protocol](https://github.com/iahalkhatib/Azure-Network-Protocols)
 
 
- 
+ <br>
+ <br>
 
 ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/6e47d4c9-a36f-4238-913e-c40e26727cf4)
 
@@ -55,7 +58,8 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
   - [Get short description, display the "man" pages for a cmd, and find commands based on keywords]( https://github.com/iahalkhatib/Man-Whatis-Apropos-Commands-Lab-7)
  
   
-
+<br>
+<br>
 
 ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/6d326da4-3034-4b88-b3a7-583e4a8237cb)
 
@@ -65,7 +69,8 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
     - [Intro into Basics of SQL - Queries, Select*, Select, From, Order By ](https://github.com/iahalkhatib/Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1-)
 
 
-
+<br>
+<br>
 
 ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/039e449d-eef4-4298-9f6d-c587ce47937a)
 
