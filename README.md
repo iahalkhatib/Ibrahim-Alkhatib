@@ -5,8 +5,13 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/776e999a-3887-4f84-ba17-82f32ffad3de)
 
 
-This portfolio showcases my hands-on projects, demonstrating my commitment to continuous learning and my ability to tackle complex technical challenges.
-I invite you to explore my work to see how I can bring value to your team.
+<h1 align="center">Welcome to Ibrahim's Lab/Project Collective,<br>
+a dedicated space where cutting-edge technology meets practical application.</h1>
+
+<p align="center">
+    This portfolio showcases my hands-on projects, demonstrating my commitment to continuous learning and my ability to tackle complex technical challenges. I invite you to explore my work to see how I can bring value to your team.
+</p>
+
 
 <h2>Labs/Projects:</h2>
 
