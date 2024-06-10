@@ -9,7 +9,7 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
     This portfolio showcases my hands-on projects, demonstrating my commitment to continuous learning and my ability to tackle complex technical challenges. I invite you to explore my work to see how I can bring value to your team.
 </p>
 
-<h2>Connect with me:</h2> <p>LinkedIn: <a href="https://www.linkedin.com/in/iahalkhatib" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></p>
+<h2>Connect with me:</h2> <p> <a href="https://www.linkedin.com/in/iahalkhatib" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></p>
 
 
 
