@@ -46,6 +46,8 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 - <b>SQL (Structured Query Language)</b>
 
+- [Intro into Basics of SQL - Queries, Select*, Select, From, Order By ](https://github.com/iahalkhatib/Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1-)
+
 
 - <b>Generative Ai - ChatGPT (Generative Pre-Trained Transformer)</b>
 
