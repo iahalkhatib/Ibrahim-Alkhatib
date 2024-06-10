@@ -10,7 +10,7 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 </p>
 
 
-<h2 align="center">Labs/Projects:</h2>
+<h2 align="center">Labs/Projects</h2>
 
 
 
