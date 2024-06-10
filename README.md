@@ -11,16 +11,6 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 
 
-<h2>Connect with me:</h2> 
-<div>
-    <a href="https://www.linkedin.com/in/iahalkhatib" target="_blank" style="display: inline-block; vertical-align: middle;">
-        <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <p style="display: inline-block; vertical-align: middle;">LinkedIn</p>
-</div>
-
-
-
 
 <h2 align="center">Labs/Projects</h2>
 
