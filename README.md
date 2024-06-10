@@ -10,7 +10,9 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 </p>
 
 
-<h2>Labs/Projects:</h2>
+<h2 align="center">Labs/Projects:</h2>
+
+
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites, Installation, Post-Installation Configuration, and Lifecycle](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-)
