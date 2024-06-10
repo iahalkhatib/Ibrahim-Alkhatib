@@ -12,11 +12,10 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 <h2>Connect with me:</h2>
 
 
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [linkedin]: https://www.linkedin.com/in/iahalkhatib 
 
 
 
-[linkedin]: https://www.linkedin.com/in/iahalkhatib
 
 <h2 align="center">Labs/Projects</h2>
 
