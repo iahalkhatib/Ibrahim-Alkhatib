@@ -30,6 +30,12 @@
   - [Get short description, display the "man" pages for a cmd, and find commands based on keywords]( https://github.com/iahalkhatib/Man-Whatis-Apropos-Commands-Lab-7)
 
 
+- <b>SQL (Structured Query Language)</b>
+
+
+- <b>Generative Ai - ChatGPT (Generative Pre-Trained Transformer)</b>
+
+
 
 
 <h2>🤳 Connect with me:</h2>
