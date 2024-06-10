@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites, Installation, and Post-Installation Configuration](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-)
+  - [osTicket: Prerequisites, Installation, Post-Installation Configuration, and Lifecycle](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-)
     
 - <b>Microsoft Azure</b>
   - [Intro into Basics of Azure Set up](https://github.com/iahalkhatib/Azure-Basics-Create-Subscription-First-Resource-Lab-1-)
