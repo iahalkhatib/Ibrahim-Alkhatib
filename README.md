@@ -1,4 +1,5 @@
-<h1> Welcome to Ibrahim's Lab/Project Collective, a dedicated space where cutting-edge technology meets practical application.  </a> </h1>
+<h1> Welcome to Ibrahim's Lab/Project Collective, 
+a dedicated space where cutting-edge technology meets practical application.  </a> </h1>
 
 This portfolio showcases my hands-on projects, demonstrating my commitment to continuous learning and my ability to tackle complex technical challenges.
 I invite you to explore my work to see how I can bring value to your team.
