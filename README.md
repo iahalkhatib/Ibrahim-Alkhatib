@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ibra! </a> </h1>
+<h1>Hello, I am Ibra and Welcome to my Lab/Project Collective </a> </h1>
 
 <h2>Projects:</h2>
 
