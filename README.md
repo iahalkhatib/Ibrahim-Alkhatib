@@ -2,7 +2,7 @@
 a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application.</h1>
 
 
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/776e999a-3887-4f84-ba17-82f32ffad3de)
+![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/693e67cc-2d52-4146-9231-5a2ab8c02219)
 
 
 <p align="center">
