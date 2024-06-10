@@ -4,7 +4,7 @@ a dedicated space where cutting-edge technology meets practical application.  </
 This portfolio showcases my hands-on projects, demonstrating my commitment to continuous learning and my ability to tackle complex technical challenges.
 I invite you to explore my work to see how I can bring value to your team.
 
-<h2>Projects:</h2>
+<h2>Labs/Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites, Installation, Post-Installation Configuration, and Lifecycle](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-)
