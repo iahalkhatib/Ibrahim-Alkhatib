@@ -1,4 +1,8 @@
-<h1>Hello, I am Ibra and Welcome to my Lab/Project Collective, a dedicated space where cutting-edge technology meets practical application. This portfolio showcases my hands-on projects, demonstrating my commitment to continuous learning and my ability to tackle complex technical challenges. This collection represents my technical prowess and passion for innovation. I invite you to explore my work to see how I can bring value to your team. </a> </h1>
+<h1>Hello, I am Ibra and Welcome to my Lab/Project Collective, a dedicated space where cutting-edge technology meets practical application.  </a> </h1>
+
+<h1>This portfolio showcases my hands-on projects, demonstrating my commitment to continuous learning and my ability to tackle complex technical challenges. </a> </h1>
+
+<h1>This collection represents my technical prowess and passion for innovation. I invite you to explore my work to see how I can bring value to your team. </a> </h1>
 
 <h2>Projects:</h2>
 
