@@ -10,16 +10,16 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 </p>
 
 
+
 <h2>Connect with me:</h2> 
-<p>
-    <a href="https://www.linkedin.com/in/iahalkhatib" target="_blank">
+<div>
+    <a href="https://www.linkedin.com/in/iahalkhatib" target="_blank" style="display: inline-block; vertical-align: middle;">
         <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-        LinkedIn
     </a>
-</p>
+    <p style="display: inline-block; vertical-align: middle;">LinkedIn</p>
+</div>
 
 
-This will display the "Connect with me:" text followed by the LinkedIn icon and text on the same line.
 
 
 <h2 align="center">Labs/Projects</h2>
