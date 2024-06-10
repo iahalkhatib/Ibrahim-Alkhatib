@@ -1,6 +1,9 @@
 <h1> Welcome to Ibrahim's Lab/Project Collective, 
 a dedicated space where cutting-edge technology meets practical application.  </a> </h1>
 
+![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/776e999a-3887-4f84-ba17-82f32ffad3de)
+
+
 This portfolio showcases my hands-on projects, demonstrating my commitment to continuous learning and my ability to tackle complex technical challenges.
 I invite you to explore my work to see how I can bring value to your team.
 
