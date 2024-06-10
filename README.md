@@ -1,5 +1,6 @@
-<h1> <center>  Welcome to Ibrahim's Lab/Project Collective, 
-a dedicated space where cutting-edge technology meets practical application.</center> </a> </h1>
+<h1 align="center">Welcome to Ibrahim's Lab/Project Collective,<br>
+a dedicated space where cutting-edge technology meets practical application.</h1>
+
 
 ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/776e999a-3887-4f84-ba17-82f32ffad3de)
 
