@@ -37,6 +37,13 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 
  <br>
+
+ ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/f29b11b8-ed85-4fcf-8c2c-f0d2487dd07c)
+
+- <b>DNS (Domain Name Server)</b>
+
+  - [Comprehensive DNS Configuration and Management Practical Guide](https://github.com/iahalkhatib/Comprehensive-DNS-Configuration-Management-and-Troubleshooting-Procedures-Lab-1)
+
  <br>
 
 ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/6e47d4c9-a36f-4238-913e-c40e26727cf4)
