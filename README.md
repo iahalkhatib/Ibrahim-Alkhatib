@@ -74,9 +74,9 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/039e449d-eef4-4298-9f6d-c587ce47937a)
 
-- <b>Generative Ai - ChatGPT (Generative Pre-Trained Transformer)</b>
+- <b> Generative Ai - ChatGPT (Generative Pre-Trained Transformer)</b>
 
-
+    - [Prompt Engineering (Custom Ai Assistant)](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
 
 
 
