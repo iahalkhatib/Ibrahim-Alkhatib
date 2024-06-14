@@ -74,6 +74,8 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 - <b>SQL (Structured Query Language)</b>
 
     - [Intro into Basics of SQL - Queries, Select*, Select, From, Order By ](https://github.com/iahalkhatib/Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1-)
+    - 
+    - [Intro into Basics of SQL - Queries, Select*, From, Where, Like ](https://github.com/iahalkhatib/Basic-SQL-Queries-Select-From-Where-Like-Lab-2)
 
 
 <br>
