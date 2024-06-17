@@ -34,7 +34,8 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/iahalkhatib/Configure-AD-Azure)
  
   - [Network Security Groups (NSGs) and Inspecting Network Protocol](https://github.com/iahalkhatib/Azure-Network-Protocols)
-
+    
+  - [Network File Shares and Permissions](https://github.com/iahalkhatib/Azure-Network-File-Share-Permissions-)
 
  <br>
 
