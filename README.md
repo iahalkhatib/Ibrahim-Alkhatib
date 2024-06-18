@@ -83,6 +83,8 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
  
     - [Intro into Basics of SQL - Queries, Operators, & Filters (AND, OR, NOT)](https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Lab-4)
 
+    - [Intro into Basics of SQL - Queries, Operators, Filters, & Joins (Left, Right, Inner)](https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Joins-Lab-5)
+
 
 <br>
 <br>
