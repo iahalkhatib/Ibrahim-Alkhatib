@@ -79,6 +79,7 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
       
     - [Intro into Basics of SQL - Queries, Select*, From, Where, Like ](https://github.com/iahalkhatib/Basic-SQL-Queries-Select-From-Where-Like-Lab-2)
 
+    - [Intro into Basics of SQL - Queries, Operators, & Filters](https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Lab-3)
 
 <br>
 <br>
