@@ -95,7 +95,7 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 - <b> Generative Ai - (Generative Pre-Trained Transformer)</b>
 
 
-    - [Prompt Engineering (Prompt Instructions Basics)](https://github.com/iahalkhatib/Prompt-Instructions-and-the-Prompt)
+    - [Prompt Engineering (Prompt & Instructions Basics)](https://github.com/iahalkhatib/Basics-of-Prompt-Engineering)
 
 
     - [Prompt Engineering (Custom Ai Assistant)](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
