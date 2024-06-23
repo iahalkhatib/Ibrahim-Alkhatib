@@ -96,7 +96,8 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 
     - [Prompt Engineering (Prompt & Instructions Basics)](https://github.com/iahalkhatib/Basics-of-Prompt-Engineering)
-
+ 
+    - [Prompt Engineering (4 Pillars of Prompting)](https://github.com/iahalkhatib/Best-Practices-of-Prompting)
 
     - [Prompt Engineering (Custom Ai Assistant)](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
 
