@@ -101,9 +101,6 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 
 
-
-
-
 <br>
 <br>
 
@@ -118,13 +115,21 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
     - [Prompt Engineering (4 Pillars of Prompting)](https://github.com/iahalkhatib/Best-Practices-of-Prompting-The-4-Pillars)
       
     - [Prompt Engineering (Improve LLM Reliablity with Prompts)](https://github.com/iahalkhatib/Techniques-to-Improve-LLM-Reliability-with-Text-Prompts)
-
-    - [Prompt Engineering (Interview Pattern)](https://github.com/iahalkhatib/Prompt-Engineering-Interview-Pattern-)
-      
-    - [Prompt Engineering (Chain of Thought Pattern)](https://github.com/iahalkhatib/Prompt-Engineering-Chain-of-Thought-Pattern-)
       
     - [Prompt Engineering (Prompt Engineering Tools)](https://github.com/iahalkhatib/Tools-for-Prompt-Engineering)    
 
     - [Prompt Engineering (Custom Ai Assistant)](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
 
+<br>
+<br>
 
+![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/59c09100-ebc3-4e92-81c5-6dbbfebee0f7)
+
+- <b> Generative Ai - (Prompt Engineering Patterns & Approcahes)</b>
+
+
+    - [Prompt Engineering (Interview Pattern)](https://github.com/iahalkhatib/Prompt-Engineering-Interview-Pattern-)
+      
+    - [Prompt Engineering (Chain of Thought Pattern)](https://github.com/iahalkhatib/Prompt-Engineering-Chain-of-Thought-Pattern-)
+ 
+    - [Prompt Engineering (Tree of Thought Approach)](https://github.com/iahalkhatib/Prompt-Engineering-Tree-of-Thought-Approach-)
