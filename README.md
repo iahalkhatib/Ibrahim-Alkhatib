@@ -107,6 +107,13 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
     - [Prompt Engineering (Custom Ai Assistant)](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
 
 
+<br>
+<br>
+
+
+![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/369b1182-3f71-4805-96cd-993fd0fdd940)
+
+
 
 - <b> Gen Ai, NLP, LLM, GPT </b>
 
