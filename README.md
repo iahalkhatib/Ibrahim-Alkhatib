@@ -115,7 +115,7 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 
 
-- <b> Gen Ai, NLP, LLM, GPT </b>
+- <b> Gen Ai (NLP, NLU, LLM, GPT) </b>
 
     - [Generative Ai (Understanding Relationships)](https://github.com/iahalkhatib/Understanding-the-Hierarchical-Relationship-Between-Generative-AI-NLP-LLM-and-GPT)
 
