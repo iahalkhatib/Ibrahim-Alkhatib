@@ -89,6 +89,24 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 <br>
 <br>
 
+
+
+![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/369b1182-3f71-4805-96cd-993fd0fdd940)
+
+
+
+- <b> Gen Ai (NLP, NLU, LLM, GPT) </b>
+
+    - [Generative Ai (Understanding Relationships)](https://github.com/iahalkhatib/Understanding-the-Hierarchical-Relationship-Between-Generative-AI-NLP-LLM-and-GPT)
+
+
+
+
+
+
+<br>
+<br>
+
 ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/8f4ae1c8-61ea-46ad-8dd6-dea561071a33)
 
 
@@ -106,20 +124,5 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
     - [Prompt Engineering (Prompt Engineering Tools)](https://github.com/iahalkhatib/Tools-for-Prompt-Engineering)    
 
     - [Prompt Engineering (Custom Ai Assistant)](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
-
-
-<br>
-<br>
-
-
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/369b1182-3f71-4805-96cd-993fd0fdd940)
-
-
-
-- <b> Gen Ai (NLP, NLU, LLM, GPT) </b>
-
-    - [Generative Ai (Understanding Relationships)](https://github.com/iahalkhatib/Understanding-the-Hierarchical-Relationship-Between-Generative-AI-NLP-LLM-and-GPT)
-
-
 
 
