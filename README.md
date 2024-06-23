@@ -102,11 +102,15 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
     - [Prompt Engineering (Improve LLM Reliablity with Prompts)](https://github.com/iahalkhatib/Techniques-to-Improve-LLM-Reliability-with-Text-Prompts)
 
     
-      
     - [Prompt Engineering (Prompt Engineering Tools)](https://github.com/iahalkhatib/Tools-for-Prompt-Engineering)    
 
     - [Prompt Engineering (Custom Ai Assistant)](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
 
+
+
+- <b> Gen Ai, NLP, LLM, GPT </b>
+
+    - [Generative Ai (Understanding Relationships)](https://github.com/iahalkhatib/Understanding-the-Hierarchical-Relationship-Between-Generative-AI-NLP-LLM-and-GPT)
 
 
 
