@@ -132,4 +132,4 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
       
     - [Prompt Engineering (Chain of Thought Pattern)](https://github.com/iahalkhatib/Prompt-Engineering-Chain-of-Thought-Pattern-)
  
-    - [Prompt Engineering (Tree of Thought Approach)](https://github.com/iahalkhatib/Prompt-Engineering-Tree-of-Thought-Approach-)
+    - [Prompt Engineering (Tree of Thought Approach)](https://github.com/iahalkhatib/Prompt-Engineering-Tree-of-Thought-Approach)
