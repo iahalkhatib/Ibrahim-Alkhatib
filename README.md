@@ -114,6 +114,8 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
  
     - [Prompt Engineering (4 Pillars of Prompting)](https://github.com/iahalkhatib/Best-Practices-of-Prompting-The-4-Pillars)
       
+    - [Prompt Engineering (Framing)](https://github.com/iahalkhatib/Prompt-Framing-Approach-to-Prompt-Engineering)
+      
     - [Prompt Engineering (Improve LLM Reliablity with Prompts)](https://github.com/iahalkhatib/Techniques-to-Improve-LLM-Reliability-with-Text-Prompts)
       
     - [Prompt Engineering (Prompt Engineering Tools)](https://github.com/iahalkhatib/Tools-for-Prompt-Engineering)    
@@ -127,7 +129,6 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 - <b> Generative Ai - (Prompt Engineering Patterns & Approcahes)</b>
 
-    - [Prompt Engineering (Framing)](https://github.com/iahalkhatib/Prompt-Framing-Approach-to-Prompt-Engineering)
 
     - [Prompt Engineering (Interview Pattern)](https://github.com/iahalkhatib/Prompt-Engineering-Interview-Pattern-)
       
