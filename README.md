@@ -127,6 +127,7 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 - <b> Generative Ai - (Prompt Engineering Patterns & Approcahes)</b>
 
+    - [Prompt Engineering (Framing)](https://github.com/iahalkhatib/Prompt-Framing-Approach-to-Prompt-Engineering)
 
     - [Prompt Engineering (Interview Pattern)](https://github.com/iahalkhatib/Prompt-Engineering-Interview-Pattern-)
       
