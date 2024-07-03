@@ -39,6 +39,14 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
  <br>
 
+
+![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/a373786e-0dc0-4414-ae8e-907042e85381)
+
+- <b>Google Cloud</b>
+
+
+ <br>
+
  ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/f29b11b8-ed85-4fcf-8c2c-f0d2487dd07c)
 
 - <b>DNS (Domain Name Server)</b>
