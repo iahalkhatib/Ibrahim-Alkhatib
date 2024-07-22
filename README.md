@@ -44,6 +44,21 @@ a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application
 
 - <b>Google Cloud</b>
 
+  - [Intro into Google Cloud VM and-Networks](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC)
+  - [Google Cloud Compute-Engine](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-Compute-Engine?tab=readme-ov-file)
+  - [Google Cloud VM Scaling](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VM-Scaling)
+  - [Google Cloud VPC Features](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC-Features)
+  - [Google Cloud Load Balancing](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-Load-Balancing)
+  - [Google Cloud Cloud DNS and Cloud CDN](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-Cloud-DNS-and-CDN)
+  - [Google Cloud Cloud VPC Networks](https://github.com/iahalkhatib/Connecting-Google-Virtual-Private-Cloud-VPC-Networks)
+
+
+
+
+
+
+
+
 
  <br>
 
