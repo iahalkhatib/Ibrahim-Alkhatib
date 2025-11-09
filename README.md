@@ -1,168 +1,98 @@
-<h1 align="center">Welcome to Ibrahim's Lab/Project Collective,
-a Dedicated <br> Space where Cutting-Edge Technology meets Practical Application.</h1>
+<h1 align="center">👋 Welcome</h1>
 
-
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/693e67cc-2d52-4146-9231-5a2ab8c02219)
-
-
+<h3 align="center">By Ibrahim</h3>
 <p align="center">
-    This portfolio showcases my hands-on projects, demonstrating my commitment to continuous learning and my ability to tackle complex technical challenges. I invite you to explore my work to see how I can bring value to your team.
+MBA | PMP | AI Systems & Data Transformation Professional  
 </p>
 
+---
 
+### 🌍 About
+Welcome to my **AI & Systems Innovation Portfolio** — a dedicated space where cutting-edge technology meets practical application.  
+I design, integrate, and optimize intelligent systems that bridge **AI, analytics, and automation** across business and technical domains.  
 
+💡 **Core Focus:** Generative & Agentic AI • ERP & Analytics • Automation & Process Optimization • Autonomous & Cognitive Systems  
+🧠 **Projects:** PromptPilot | Mithril Systems | Aggccelerate | GMIC.AI | Agilien | AI Labs (Azure, Google Cloud, SAP, SQL, Linux)  
 
-<h2 align="center">Labs/Projects</h2>
+This portfolio showcases my hands-on projects and continuous learning in AI, cloud, and systems engineering. Explore my work to see how I can bring value to your team.
 
-<br>
+---
 
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/e971fc24-608c-464d-97e2-b7292eea768d)
+### ⚙️ Skills, Technologies & Interests
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites, Installation, Post-Installation Configuration, and Lifecycle](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-)
- 
-<br>
-<br>
+**Core Skills:**  
+Program & Project Management • Strategic Planning • Supply Chain Optimization • Process Improvement • Change Management •  
+Agile / Waterfall / Scrum • Data-Driven Decision Making • Financial Analysis • Business Intelligence & Data Visualization  
 
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/556de2de-70e2-463f-b41e-4766205e1b6b)
+**Technologies:**  
+Python • Power BI • Tableau • SAP ERP • Samsung SCM Analytics • ChatGPT • Claude • Gemini • Grok • Perplexity •  
+Microsoft Office Suite (Excel, Access) • Google Workspace • Jira • Trello • Samsung Knox  
 
-- <b>Microsoft Azure</b>
-  - [Intro into Basics of Azure Set up](https://github.com/iahalkhatib/Azure-Basics-Create-Subscription-First-Resource-Lab-1-)
+**Interests:**  
+Semiconductor Manufacturing • Building Computers • Generative & Agentic AI • LLMs • AR/VR • Humanoid & Autonomous Robotics •  
+Advanced Autonomous Systems • Science Fiction • Soccer ⚽  
 
-  - [Starting with VMs, Networking, and Wireshark in Azure](https://github.com/iahalkhatib/Azure-Networking-and-Wireshark-Lab-2)
+---
 
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/iahalkhatib/Configure-AD-Azure)
- 
-  - [Network Security Groups (NSGs) and Inspecting Network Protocol](https://github.com/iahalkhatib/Azure-Network-Protocols)
-    
-  - [Network File Shares and Permissions](https://github.com/iahalkhatib/Azure-Network-File-Share-Permissions-)
+<h2 align="center">🧩 Labs & Projects</h2>
 
- <br>
 
+#### 🧭 osTicket (Help Desk Ticketing System)
+- [osTicket: Prerequisites, Installation, Post-Installation Configuration, and Lifecycle](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-)
 
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/a373786e-0dc0-4414-ae8e-907042e85381)
+---
 
-- <b>Google Cloud</b>
+#### ☁️ Microsoft Azure
+- [Intro into Basics of Azure Setup](https://github.com/iahalkhatib/Azure-Basics-Create-Subscription-First-Resource-Lab-1-)
+- [Networking, VMs, and Wireshark in Azure](https://github.com/iahalkhatib/Azure-Networking-and-Wireshark-Lab-2)
+- [Configuring On-Prem AD in Azure](https://github.com/iahalkhatib/Configure-AD-Azure)
+- [Network Security Groups (NSGs) & Protocols](https://github.com/iahalkhatib/Azure-Network-Protocols)
+- [Network File Shares & Permissions](https://github.com/iahalkhatib/Azure-Network-File-Share-Permissions-)
 
-  - [Intro into Google Cloud VM and-Networks](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC)
-  - [Google Cloud Compute-Engine](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-Compute-Engine?tab=readme-ov-file)
-  - [Google Cloud VM Scaling](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VM-Scaling)
-  - [Google Cloud VPC Features](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC-Features)
-  - [Google Cloud Load Balancing](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-Load-Balancing)
-  - [Google Cloud Cloud DNS and Cloud CDN](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-Cloud-DNS-and-CDN)
-  - [Google Cloud Cloud VPC Networks](https://github.com/iahalkhatib/Connecting-Google-Virtual-Private-Cloud-VPC-Networks)
+---
 
+#### 🌐 Google Cloud
+- [Intro into Google Cloud VM & Networks](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC)
+- [Compute Engine & VM Scaling](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VM-Scaling)
+- [VPC Features, Load Balancing, & CDN](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC-Features)
+- [Cloud DNS & Cloud CDN](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-Cloud-DNS-and-CDN)
 
+---
 
+#### 🌍 DNS (Domain Name System)
+- [Comprehensive DNS Configuration & Management Guide](https://github.com/iahalkhatib/Comprehensive-DNS-Configuration-Management-and-Troubleshooting-Procedures-Lab-1)
 
+---
 
+#### 🐧 Linux
+- [Install Suricata & TCPdump via APT](https://github.com/iahalkhatib/Bash-Shell-Install-Uninstall-Using-APT)
+- [Shell I/O Commands: echo, expr, clear](https://github.com/iahalkhatib/Examine-Input-Output-in-the-Shell-on-Linux-Debian-Based-System-Lab-2)
+- [Search & Filter Files Using grep and piping](https://github.com/iahalkhatib/Using-grep-piping-commands-in-the-Shell-Lab-3)
+- [Manage Directories, Users, & Permissions](https://github.com/iahalkhatib/Manage-Authorization-Change-File-Hidden-File-Directory-Permissions-Lab-5)
+- [Add / Delete Users & Groups](https://github.com/iahalkhatib/Add-New-User-Assign-File-Ownership-Add-User-to-2nd-Group-Delete-User-Lab-6)
+- [Use man, whatis, and apropos Commands](https://github.com/iahalkhatib/Man-Whatis-Apropos-Commands-Lab-7)
 
+---
 
+#### 🧮 SQL (Structured Query Language)
+- [SQL Basics – SELECT, FROM, ORDER BY](https://github.com/iahalkhatib/Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1-)
+- [WHERE, LIKE & Filters](https://github.com/iahalkhatib/Basic-SQL-Queries-Select-From-Where-Like-Lab-2)
+- [Operators, Filters & Joins](https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Joins-Lab-5)
+- [Data Analysis for Business Decisions](https://github.com/iahalkhatib/Data-Analysis-with-SQL-Inform-a-Business-Decision)
 
+---
 
- <br>
+#### 🤖 Generative AI, NLP & LLMs
+- [Understanding Relationships: Generative AI, NLP, NLU, and GPT](https://github.com/iahalkhatib/Understanding-the-Hierarchical-Relationship-Between-Generative-AI-NLP-LLM-and-GPT)
+- [Prompt Engineering Basics & Techniques](https://github.com/iahalkhatib/Basics-of-Prompt-Engineering)
+- [4 Pillars of Prompting](https://github.com/iahalkhatib/Best-Practices-of-Prompting-The-4-Pillars)
+- [Prompt Framing & Chain-of-Thought Patterns](https://github.com/iahalkhatib/Prompt-Engineering-Chain-of-Thought-Pattern-)
+- [Tree-of-Thought Approach](https://github.com/iahalkhatib/Prompt-Engineering-Tree-of-Thought-Approach)
+- [Custom AI Assistant Creation](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
 
- ![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/f29b11b8-ed85-4fcf-8c2c-f0d2487dd07c)
+---
 
-- <b>DNS (Domain Name Server)</b>
-
-  - [Comprehensive DNS Configuration and Management Practical Guide](https://github.com/iahalkhatib/Comprehensive-DNS-Configuration-Management-and-Troubleshooting-Procedures-Lab-1)
-
-
- <br>
-
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/6e47d4c9-a36f-4238-913e-c40e26727cf4)
-
-
-- <b>Linux</b>
-  - [Installing Suricata & TCPdump using APT on VM running Debian-Based Distribution of Linux](https://github.com/iahalkhatib/Bash-Shell-Install-Uninstall-Using-APT)
-    
-  - [Examine Input & Output in the Shell using "echo" "expr" & "clear" commands on VM running Debian-Based Distribution of Linux](https://github.com/iahalkhatib/Examine-Input-Output-in-the-Shell-on-Linux-Debian-Based-System-Lab-2)
-  
-  - [Search for Files and return specific information from files in the Shell using "grep" & "piping" commands on VM running Debian-Based Distribution of Linux](https://github.com/iahalkhatib/Using-grep-piping-commands-in-the-Shell-Lab-3)
-    
-  - [Use Linux commands to modify a Directory structure and the files it contains and use "nano" text editor to add text to the file](https://github.com/iahalkhatib/Using-grep-piping-commands-in-the-Shell-Lab-3) 
-
-  - [Manage Authorization for Files, Hidden Files, & Directories](https://github.com/iahalkhatib/Manage-Authorization-Change-File-Hidden-File-Directory-Permissions-Lab-5)
-
-  - [Add a new user, add a user group, change user premissions, delete a user]( https://github.com/iahalkhatib/Add-New-User-Assign-File-Ownership-Add-User-to-2nd-Group-Delete-User-Lab-6)
-
-  - [Get short description, display the "man" pages for a cmd, and find commands based on keywords]( https://github.com/iahalkhatib/Man-Whatis-Apropos-Commands-Lab-7)
- 
-  
-<br>
-<br>
-
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/6d326da4-3034-4b88-b3a7-583e4a8237cb)
-
-
-- <b>SQL (Structured Query Language)</b>
-
-    - [Intro into Basics of SQL - Queries, Select*, Select, From, Order By ](https://github.com/iahalkhatib/Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1-)
-      
-    - [Intro into Basics of SQL - Queries, Select*, From, Where, Like ](https://github.com/iahalkhatib/Basic-SQL-Queries-Select-From-Where-Like-Lab-2)
-
-    - [Intro into Basics of SQL - Queries, Operators, & Filters (Where, Between, And, =, >, >=) ](https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Lab-3)
- 
-    - [Intro into Basics of SQL - Queries, Operators, & Filters (AND, OR, NOT)](https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Lab-4)
-
-    - [Intro into Basics of SQL - Queries, Operators, Filters, & Joins (Left, Right, Inner)](https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Joins-Lab-5)
- 
-    - [Data Analysis with SQL Inform a Business Decision](https://github.com/iahalkhatib/Data-Analysis-with-SQL-Inform-a-Business-Decision/new/main?readme=1)
- 
-
-
-
-<br>
-<br>
-
-
-
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/369b1182-3f71-4805-96cd-993fd0fdd940)
-
-
-
-- <b> Gen Ai (NLP, NLU, LLM, GPT) </b>
-
-    - [Generative Ai (Understanding Relationships)](https://github.com/iahalkhatib/Understanding-the-Hierarchical-Relationship-Between-Generative-AI-NLP-LLM-and-GPT)
-
-
-
-<br>
-<br>
-
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/8f4ae1c8-61ea-46ad-8dd6-dea561071a33)
-
-
-- <b> Generative Ai - (Generative Pre-Trained Transformer)</b>
-
-
-    - [Prompt Engineering (Prompt & Instructions Basics)](https://github.com/iahalkhatib/Basics-of-Prompt-Engineering)
- 
-    - [Prompt Engineering (4 Pillars of Prompting)](https://github.com/iahalkhatib/Best-Practices-of-Prompting-The-4-Pillars)
-      
-    - [Prompt Engineering (Framing)](https://github.com/iahalkhatib/Prompt-Framing-Approach-to-Prompt-Engineering)
- 
-    - [Prompt Engineering (Prompt Hacking)](https://github.com/iahalkhatib/Understanding-Prompt-Hacks)
-      
-    - [Prompt Engineering (Image Prompting)](https://github.com/iahalkhatib/Techniques-to-Improve-Image-Prompting)
-      
-    - [Prompt Engineering (Improve LLM Reliablity with Prompts)](https://github.com/iahalkhatib/Techniques-to-Improve-LLM-Reliability-with-Text-Prompts)
-      
-    - [Prompt Engineering (Prompt Engineering Tools)](https://github.com/iahalkhatib/Tools-for-Prompt-Engineering)    
-
-    - [Prompt Engineering (Custom Ai Assistant)](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
-
-<br>
-<br>
-
-![image](https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/59c09100-ebc3-4e92-81c5-6dbbfebee0f7)
-
-- <b> Generative Ai - (Prompt Engineering Patterns & Approcahes)</b>
-
-
-    - [Prompt Engineering (Interview Pattern)](https://github.com/iahalkhatib/Prompt-Engineering-Interview-Pattern-)
-      
-    - [Prompt Engineering (Chain of Thought Pattern)](https://github.com/iahalkhatib/Prompt-Engineering-Chain-of-Thought-Pattern-)
- 
-    - [Prompt Engineering (Tree of Thought Approach)](https://github.com/iahalkhatib/Prompt-Engineering-Tree-of-Thought-Approach)
+### 📫 Connect
+<p align="center">
+<a href="https://www.linkedin.com/in/ibrahimalkhatib/" target="_blank">LinkedIn</a>
+</p>
