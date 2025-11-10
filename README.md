@@ -8,48 +8,52 @@
 # Ibrahim Alkhatib  
 **MBA | PMP | Technologist | Builder**
 
-[LinkedIn](https://www.linkedin.com/in/ibrahimalkhatib/) • [Email](mailto:ibra.alkhatib@proton.me) • [GitHub](https://github.com/iahalkhatib)
+<a href="https://www.linkedin.com/in/ibrahimalkhatib/" target="_blank">LinkedIn</a> • 
+<a href="mailto:ibra.alkhatib@proton.me" target="_blank">Email</a> • 
+<a href="https://github.com/iahalkhatib" target="_blank">GitHub</a>
 
 </div>
 
 ---
 
-### 👋 Introduction  
+### Introduction  
 
-I’m **Ibrahim Alkhatib**, a business technologist and builder focused on the intersection of **strategy, systems, and intelligent automation.**  
+I am **Ibrahim Alkhatib**, a business technologist focused on the intersection of **strategy, systems, and intelligent automation**.  
 
-I bridge **business leadership** and **technical innovation** — designing solutions that improve efficiency, enable data-driven decision-making, and make technology work *with* people, not against them.  
+I bridge **business leadership** and **technical innovation**, designing solutions that improve efficiency, enhance decision-making, and make technology work *with* people, not against them.  
 
-My background spans **program management, operations, and AI-driven transformation**, and my work centers on designing ethical, scalable systems that empower organizations and enhance human potential.
+My background spans **program management, operations, and AI-driven transformation**, with a central focus on building **ethical, scalable systems** that empower organizations and strengthen human potential.
 
 ---
+
 <p align="center">
-
-<img width="449" height="414" alt="Aggccelerate Vision" src="https://github.com/user-attachments/assets/9bc30317-ecad-4c85-868b-b0e0e62dac37" />
+  <img width="449" height="414" alt="Aggccelerate Vision" src="https://github.com/user-attachments/assets/9bc30317-ecad-4c85-868b-b0e0e62dac37" />
 </p>
-⚙️ Aggccelerate Vision  
 
-> **Aggccelerate** builds modular systems that unite **automation, intelligence, and human insight** to accelerate meaningful progress.  
+### Aggccelerate Vision  
+
+> **Aggccelerate** builds modular systems that connect **automation, intelligence, and human insight** to accelerate meaningful progress.  
 >  
-> Inspired by the precision of **Palantir** and the autonomy of **Anduril**, Aggccelerate focuses on creating **practical, adaptive AI tools** — systems that can evolve from MVPs to full-scale enterprise deployments.  
+> Inspired by the precision of **Palantir** and the autonomy of **Anduril**, Aggccelerate focuses on developing **practical, adaptive AI tools** that scale from MVPs to full-production environments.  
 >  
-> Our mission is to build **efficient, ethical, and human-aligned intelligence** that enhances human decision-making, not replaces it.  
+> Our mission is to design **efficient, ethical, and human-aligned intelligence** that enhances decision-making, not replaces it.  
 
 **Core Focus Areas**  
 - Generative & Agentic AI • Cognitive Systems • Process Optimization  
 - Human–Machine Collaboration • Robotics & Autonomy  
 - Data Integration • ERP & Analytics  
 
-#### 🌐 Flagship Projects  
-[🔗 Aggccelerate](https://www.aggccelerate.com) • 
-[🔗 Symphonian](https://symphonian-by-aggccelerate-s-aiforge-1084269463669.us-west1.run.app) • 
-[🔗 BoardRoom](https://boardroom-by-aggccelerate-s-aiforge-936455305489.us-west1.run.app) • 
-[🔗 Oracle](https://oracle-by-aggccelerate-aiforge-tm-502726563272.us-west1.run.app) • 
-[🔗 HoloDeck](https://cosmos-aiforge-by-aggccelerate-world-simulator-683175902487.us-west1.run.app)
+#### Flagship Projects  
+
+<a href="https://www.aggccelerate.com" target="_blank">Aggccelerate</a> • 
+<a href="https://symphonian-by-aggccelerate-s-aiforge-1084269463669.us-west1.run.app" target="_blank">Symphonian</a> • 
+<a href="https://boardroom-by-aggccelerate-s-aiforge-936455305489.us-west1.run.app" target="_blank">BoardRoom</a> • 
+<a href="https://oracle-by-aggccelerate-aiforge-tm-502726563272.us-west1.run.app" target="_blank">Oracle</a> • 
+<a href="https://cosmos-aiforge-by-aggccelerate-world-simulator-683175902487.us-west1.run.app" target="_blank">HoloDeck</a>
 
 ---
 
-### 🎓 Education  
+### Education  
 
 | **Institution** | **Degree / Certification** | **Location** |
 |-----------------|----------------------------|---------------|
@@ -60,28 +64,17 @@ My background spans **program management, operations, and AI-driven transformati
 
 ---
 
-### 👤 About Me  
+### Professional Overview  
 
-<div align="center" style="background-color:#ffffff; padding:20px; border-radius:12px; box-shadow:0px 0px 10px rgba(0,0,0,0.1); color:#000000;">
+I am driven by the challenge of aligning innovation with purpose — building technology that strengthens human capability, not replaces it.  
 
-I’m fascinated by how technology reshapes human progress — and how *we* can shape it in return.  
+My philosophy centers on **responsible innovation**, **sustainability**, and **strategic execution**, ensuring progress benefits organizations and society alike.  
 
-I care deeply about **ethical capitalism**, **responsible innovation**, and **sustainability** — ensuring advancement benefits not only organizations, but society and the planet as a whole.  
-
-I believe the future of work lies in **human–AI collaboration**, where technology augments creativity, not replaces it.  
-
-**Outside of work:**  
-🧩 Building computers & exploring hardware design  
-⚽ Watching La Liga, Premier League, and Serie A  
-🎬 Studying science fiction & visionary cinema  
-🤖 Experimenting with robotics & design  
-🌿 Traveling, hiking, and lifelong learning  
-
-</div>
+Beyond the boardroom, I continuously explore the relationships between emerging technologies, global systems, and ethical progress.
 
 ---
 
-### 🧠 Technical Skills  
+### Technical Skills  
 
 **Core Competencies**  
 Program & Project Management • Systems Integration • Supply Chain Optimization • Strategic Planning • Agile / Waterfall • Process Improvement • Business Intelligence • Data Analytics • Change Leadership  
@@ -94,50 +87,53 @@ Automation • ERP Systems • Generative & Agentic AI • Data Analytics • Se
 
 ---
 
-### 🧪 Labs & Experiments  
+### Labs & Experiments  
 
-#### ☁️ Microsoft Azure  
-[Azure VM Setup](https://github.com/iahalkhatib/Azure-Basics-Create-Subscription-First-Resource-Lab-1-) • 
-[Networking & Wireshark](https://github.com/iahalkhatib/Azure-Networking-and-Wireshark-Lab-2) • 
-[Active Directory Integration](https://github.com/iahalkhatib/Configure-AD-Azure) • 
-[Network Security](https://github.com/iahalkhatib/Azure-Network-Protocols) • 
-[File Shares & Permissions](https://github.com/iahalkhatib/Azure-Network-File-Share-Permissions-)
+#### Microsoft Azure  
+<a href="https://github.com/iahalkhatib/Azure-Basics-Create-Subscription-First-Resource-Lab-1-" target="_blank">Azure VM Setup</a> • 
+<a href="https://github.com/iahalkhatib/Azure-Networking-and-Wireshark-Lab-2" target="_blank">Networking & Wireshark</a> • 
+<a href="https://github.com/iahalkhatib/Configure-AD-Azure" target="_blank">Active Directory Integration</a> • 
+<a href="https://github.com/iahalkhatib/Azure-Network-Protocols" target="_blank">Network Security</a> • 
+<a href="https://github.com/iahalkhatib/Azure-Network-File-Share-Permissions-" target="_blank">File Shares & Permissions</a>
 
-#### 🌐 Google Cloud  
-[VMs & Networks](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC) • 
-[Compute & Scaling](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VM-Scaling) • 
-[VPC Features & Load Balancing](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC-Features) • 
-[Cloud DNS & CDN](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-Cloud-DNS-and-CDN)
+#### Google Cloud  
+<a href="https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC" target="_blank">VMs & Networks</a> • 
+<a href="https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VM-Scaling" target="_blank">Compute & Scaling</a> • 
+<a href="https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC-Features" target="_blank">VPC Features & Load Balancing</a> • 
+<a href="https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-Cloud-DNS-and-CDN" target="_blank">Cloud DNS & CDN</a>
 
-#### 🧠 Intelligence & Prompt Design  
-[Language System Hierarchy](https://github.com/iahalkhatib/Understanding-the-Hierarchical-Relationship-Between-Generative-AI-NLP-LLM-and-GPT) • 
-[Prompt Engineering Basics](https://github.com/iahalkhatib/Basics-of-Prompt-Engineering) • 
-[Four Pillars of Prompting](https://github.com/iahalkhatib/Best-Practices-of-Prompting-The-4-Pillars) • 
-[Chain of Thought](https://github.com/iahalkhatib/Prompt-Engineering-Chain-of-Thought-Pattern-) • 
-[Tree of Thought](https://github.com/iahalkhatib/Prompt-Engineering-Tree-of-Thought-Approach) • 
-[Custom AI Assistants](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
+#### Intelligence & Prompt Design  
+<a href="https://github.com/iahalkhatib/Understanding-the-Hierarchical-Relationship-Between-Generative-AI-NLP-LLM-and-GPT" target="_blank">Language System Hierarchy</a> • 
+<a href="https://github.com/iahalkhatib/Basics-of-Prompt-Engineering" target="_blank">Prompt Engineering Basics</a> • 
+<a href="https://github.com/iahalkhatib/Best-Practices-of-Prompting-The-4-Pillars" target="_blank">Four Pillars of Prompting</a> • 
+<a href="https://github.com/iahalkhatib/Prompt-Engineering-Chain-of-Thought-Pattern-" target="_blank">Chain of Thought</a> • 
+<a href="https://github.com/iahalkhatib/Prompt-Engineering-Tree-of-Thought-Approach" target="_blank">Tree of Thought</a> • 
+<a href="https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants" target="_blank">Custom AI Assistants</a>
 
-#### 🐧 Linux  
-[Suricata & TCPdump](https://github.com/iahalkhatib/Bash-Shell-Install-Uninstall-Using-APT) • 
-[Shell I/O Commands](https://github.com/iahalkhatib/Examine-Input-Output-in-the-Shell-on-Linux-Debian-Based-System-Lab-2) • 
-[grep & Piping](https://github.com/iahalkhatib/Using-grep-piping-commands-in-the-Shell-Lab-3) • 
-[Permissions & Groups](https://github.com/iahalkhatib/Manage-Authorization-Change-File-Hidden-File-Directory-Permissions-Lab-5)
+#### Linux  
+<a href="https://github.com/iahalkhatib/Bash-Shell-Install-Uninstall-Using-APT" target="_blank">Suricata & TCPdump</a> • 
+<a href="https://github.com/iahalkhatib/Examine-Input-Output-in-the-Shell-on-Linux-Debian-Based-System-Lab-2" target="_blank">Shell I/O Commands</a> • 
+<a href="https://github.com/iahalkhatib/Using-grep-piping-commands-in-the-Shell-Lab-3" target="_blank">grep & Piping</a> • 
+<a href="https://github.com/iahalkhatib/Manage-Authorization-Change-File-Hidden-File-Directory-Permissions-Lab-5" target="_blank">Permissions & Groups</a>
 
-#### 🧮 SQL  
-[SELECT & ORDER BY](https://github.com/iahalkhatib/Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1-) • 
-[WHERE, LIKE & Filters](https://github.com/iahalkhatib/Basic-SQL-Queries-Select-From-Where-Like-Lab-2) • 
-[Operators & Joins](https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Joins-Lab-5) • 
-[Business Decision Analysis](https://github.com/iahalkhatib/Data-Analysis-with-SQL-Inform-a-Business-Decision)
+#### SQL  
+<a href="https://github.com/iahalkhatib/Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1-" target="_blank">SELECT & ORDER BY</a> • 
+<a href="https://github.com/iahalkhatib/Basic-SQL-Queries-Select-From-Where-Like-Lab-2" target="_blank">WHERE, LIKE & Filters</a> • 
+<a href="https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Joins-Lab-5" target="_blank">Operators & Joins</a> • 
+<a href="https://github.com/iahalkhatib/Data-Analysis-with-SQL-Inform-a-Business-Decision" target="_blank">Business Decision Analysis</a>
 
-#### 💻 osTicket  
-[Installation & Lifecycle](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-)
+#### osTicket  
+<a href="https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-" target="_blank">Installation & Lifecycle</a>
 
 ---
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/ibrahimalkhatib/) • [Email](mailto:ibra.alkhatib@proton.me) • [GitHub](https://github.com/iahalkhatib)
+<a href="https://www.linkedin.com/in/ibrahimalkhatib/" target="_blank">LinkedIn</a> • 
+<a href="mailto:ibra.alkhatib@proton.me" target="_blank">Email</a> • 
+<a href="https://github.com/iahalkhatib" target="_blank">GitHub</a>
 
+<br>
 <sub>© 2025 Ibrahim Alkhatib • Aggccelerate</sub>
 
 </div>
