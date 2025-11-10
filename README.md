@@ -1,7 +1,5 @@
 <!-- Hero Banner -->
 <p align="center">
-  <!-- Replace this with the final banner image once ready -->
-  <img src="https://github.com/iahalkhatib/Ibrahim-Alkhatib/assets/170050432/75a071fd8a994f05ae517d8a" width="100%" alt="Ibrahim Alkhatib – Portfolio Banner">
 </p>
 
 <div align="center">
