@@ -96,9 +96,9 @@ Aggccelerate’s mission is to ensure this convergence happens responsibly — g
 
 | **Solution** | **Description** | **Live Demo** |
 |---------------|-----------------|----------------|
-| **Symphonian** | Intelligent orchestration engine for AI workflows — harmonizing LLMs, memory, and user intent. | [Launch](https://symphonian-by-aggccelerate-s-aiforge-1084269463669.us-west1.run.app) |
-| **BoardRoom** | Decision-intelligence environment for strategic collaboration and cognitive modeling. | [Launch](https://boardroom-by-aggccelerate-s-aiforge-936455305489.us-west1.run.app) |
-| **Oracle** | Predictive AI assistant for foresight, analysis, and strategic simulation. | [Launch](https://oracle-by-aggccelerate-aiforge-tm-502726563272.us-west1.run.app) |
+| **Symphonian** | Intelligent orchestration engine for AI workflows — harmonizing LLMs, memory, and user intent. | [Launch](https://symphonian-by-aggccelerate-619130608058.us-west1.run.app) |
+| **BoardRoom** | Decision-intelligence environment for strategic collaboration and cognitive modeling. | [Launch](https://boardroom-by-aggccelerate-936455305489.us-west1.run.app) |
+| **Oracle** | Predictive AI assistant for foresight, analysis, and strategic simulation. | [Launch](https://oracle-by-aggccelerate-502726563272.us-west1.run.app) |
 | **HoloDeck** | Immersive simulation space for human–AI experimentation and holographic environments. | [Launch](https://cosmos-aiforge-by-aggccelerate-world-simulator-683175902487.us-west1.run.app) |
 
 **Company Website:** [www.aggccelerate.com](https://www.aggccelerate.com)
