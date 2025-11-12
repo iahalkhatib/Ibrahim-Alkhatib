@@ -92,6 +92,59 @@ Aggccelerate’s mission is to ensure this convergence happens responsibly — g
 
 ---
 
+## 🌐 Flagship Projects  
+
+| **Solution** | **Description** | **Live Demo** |
+|---------------|-----------------|----------------|
+| **Symphonian** | Intelligent orchestration engine for AI workflows — harmonizing LLMs, memory, and user intent. | [Launch](https://symphonian-by-aggccelerate-s-aiforge-1084269463669.us-west1.run.app) |
+| **BoardRoom** | Decision-intelligence environment for strategic collaboration and cognitive modeling. | [Launch](https://boardroom-by-aggccelerate-s-aiforge-936455305489.us-west1.run.app) |
+| **Oracle** | Predictive AI assistant for foresight, analysis, and strategic simulation. | [Launch](https://oracle-by-aggccelerate-aiforge-tm-502726563272.us-west1.run.app) |
+| **HoloDeck** | Immersive simulation space for human–AI experimentation and holographic environments. | [Launch](https://cosmos-aiforge-by-aggccelerate-world-simulator-683175902487.us-west1.run.app) |
+
+**Company Website:** [www.aggccelerate.com](https://www.aggccelerate.com)
+
+---
+
+## 🧪 Labs & Experiments  
+
+#### ☁️ Microsoft Azure  
+[Azure Basics & VM Setup](https://github.com/iahalkhatib/Azure-Basics-Create-Subscription-First-Resource-Lab-1-) •  
+[Networking & Wireshark](https://github.com/iahalkhatib/Azure-Networking-and-Wireshark-Lab-2) •  
+[Active Directory Integration](https://github.com/iahalkhatib/Configure-AD-Azure) •  
+[Network Security](https://github.com/iahalkhatib/Azure-Network-Protocols) •  
+[File Shares & Permissions](https://github.com/iahalkhatib/Azure-Network-File-Share-Permissions-)
+
+#### 🌐 Google Cloud  
+[VMs & Virtual Networks](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC) •  
+[Compute Engine & Scaling](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VM-Scaling) •  
+[VPC Features & Load Balancing](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC-Features) •  
+[Cloud DNS & CDN](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-Cloud-DNS-and-CDN)
+
+#### 🧠 Intelligence & Prompt Design  
+[Language System Hierarchy](https://github.com/iahalkhatib/Understanding-the-Hierarchical-Relationship-Between-Generative-AI-NLP-LLM-and-GPT) •  
+[Prompt Engineering Basics](https://github.com/iahalkhatib/Basics-of-Prompt-Engineering) •  
+[Four Pillars of Prompting](https://github.com/iahalkhatib/Best-Practices-of-Prompting-The-4-Pillars) •  
+[Chain-of-Thought Methods](https://github.com/iahalkhatib/Prompt-Engineering-Chain-of-Thought-Pattern-) •  
+[Tree-of-Thought Approach](https://github.com/iahalkhatib/Prompt-Engineering-Tree-of-Thought-Approach) •  
+[Custom Assistants](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
+
+#### 🐧 Linux  
+[Suricata & TCPdump](https://github.com/iahalkhatib/Bash-Shell-Install-Uninstall-Using-APT) •  
+[Shell I/O Commands](https://github.com/iahalkhatib/Examine-Input-Output-in-the-Shell-on-Linux-Debian-Based-System-Lab-2) •  
+[grep & Piping](https://github.com/iahalkhatib/Using-grep-piping-commands-in-the-Shell-Lab-3) •  
+[Permissions & Groups](https://github.com/iahalkhatib/Manage-Authorization-Change-File-Hidden-File-Directory-Permissions-Lab-5)
+
+#### 🧮 SQL  
+[SELECT, FROM, ORDER BY](https://github.com/iahalkhatib/Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1-) •  
+[WHERE, LIKE & Filters](https://github.com/iahalkhatib/Basic-SQL-Queries-Select-From-Where-Like-Lab-2) •  
+[Operators, Filters & Joins](https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Joins-Lab-5) •  
+[Data Analysis for Business Decisions](https://github.com/iahalkhatib/Data-Analysis-with-SQL-Inform-a-Business-Decision)
+
+#### 💻 osTicket (Help Desk)  
+[Installation, Configuration & Lifecycle](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-)
+
+---
+
 ### Connect  
 
 <div align="center">
