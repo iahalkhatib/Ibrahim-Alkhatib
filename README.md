@@ -96,6 +96,7 @@ Aggccelerate’s mission is to ensure this convergence happens responsibly — g
 
 | **Solution** | **Description** | **Live Demo** |
 |---------------|-----------------|----------------|
+| **Mnemonic** | Ethical memory infrastructure for synthetic intelligence — continuity, provenance, and consent. | [Launch](https://mnemonic-1076839394979.us-west1.run.app/) |
 | **Symphonian** | Intelligent orchestration engine for AI workflows — harmonizing LLMs, memory, and user intent. | [Launch](https://symphonian-by-aggccelerate-619130608058.us-west1.run.app) |
 | **BoardRoom** | Decision-intelligence environment for strategic collaboration and cognitive modeling. | [Launch](https://boardroom-by-aggccelerate-936455305489.us-west1.run.app) |
 | **Oracle** | Predictive AI assistant for foresight, analysis, and strategic simulation. | [Launch](https://oracle-by-aggccelerate-502726563272.us-west1.run.app) |
