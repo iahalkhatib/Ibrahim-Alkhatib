@@ -40,7 +40,7 @@ At its core, Aggccelerate reflects my **builder philosophy**:
 ---
 
 <p align="center">
-  <img width="420" alt="Aggccelerate Vision" src="https://github.com/user-attachments/assets/9bc30317-ecad-4c85-868b-b0e0e62dac37" />
+  <img width="420" alt="Aggccelerate Vision" src="https://github.com/user-attachments/assets/2a8ac51b-663b-4c65-bf44-5292f52913e4" />
 </p>
 
 ## Aggccelerate Vision  
