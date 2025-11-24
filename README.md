@@ -1,6 +1,6 @@
 <!-- Centered Hero -->
 <p align="center">
-  <img width="320" alt="Ibrahim Alkhatib" src="https://github.com/user-attachments/assets/660cefe8-b789-4b35-a751-62081b271110" />
+  <img width="280" alt="Ibrahim Alkhatib" src="https://github.com/user-attachments/assets/58b51f95-1960-4d84-a83e-8b48a5d1cd71" />
 </p>
 
 <div align="center">
