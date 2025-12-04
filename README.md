@@ -85,19 +85,46 @@ It’s a creative sandbox for building next-generation productivity tools that i
 
 ## 🧪 Labs & Technical Work  
 
-#### ☁️ Microsoft Azure  
-[Azure Basics & VM Setup](https://github.com/iahalkhatib/Azure-Basics-Create-Subscription-First-Resource-Lab-1-) •  
-[Networking & Wireshark](https://github.com/iahalkhatib/Azure-Networking-and-Wireshark-Lab-2) •  
-[Active Directory Integration](https://github.com/iahalkhatib/Configure-AD-Azure)
+### ☁️ Microsoft Azure  
+| **Lab** | **Description** | **Repository** |
+|----------|------------------|----------------|
+| Azure Basics & VM Setup | Learn subscription creation, VM configuration, and resource deployment. | [View Lab](https://github.com/iahalkhatib/Azure-Basics-Create-Subscription-First-Resource-Lab-1-) |
+| Networking & Wireshark | Explore virtual networks, NSGs, and traffic monitoring in Azure. | [View Lab](https://github.com/iahalkhatib/Azure-Networking-and-Wireshark-Lab-2) |
+| Active Directory Integration | Configure on-prem AD with Azure AD sync and access control. | [View Lab](https://github.com/iahalkhatib/Configure-AD-Azure) |
 
-#### 🌐 Google Cloud  
-[VMs & Virtual Networks](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC) •  
-[Scaling & Load Balancing](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC-Features)
+---
 
-#### 🧠 Prompt Design & AI  
-[Prompt Engineering Basics](https://github.com/iahalkhatib/Basics-of-Prompt-Engineering) •  
-[Tree-of-Thought Approach](https://github.com/iahalkhatib/Prompt-Engineering-Tree-of-Thought-Approach) •  
-[Custom AI Assistants](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants)
+### 🌐 Google Cloud  
+| **Lab** | **Description** | **Repository** |
+|----------|------------------|----------------|
+| VM & Network Setup | Build compute instances, VPC networks, and routing configurations. | [View Lab](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC) |
+| Load Balancing & Scaling | Implement load balancers and scaling groups for performance optimization. | [View Lab](https://github.com/iahalkhatib/Google-Cloud-VM-and-Networks-VPC-Features) |
+
+---
+
+### 🧠 Prompt Engineering & AI Systems  
+| **Lab** | **Description** | **Repository** |
+|----------|------------------|----------------|
+| Prompt Engineering Basics | Explore structured prompting and optimization for clarity and depth. | [View Lab](https://github.com/iahalkhatib/Basics-of-Prompt-Engineering) |
+| Tree-of-Thought Method | Apply structured reasoning trees to improve LLM decision-making. | [View Lab](https://github.com/iahalkhatib/Prompt-Engineering-Tree-of-Thought-Approach) |
+| Custom AI Assistants | Design tailored LLM-based assistants for different business use cases. | [View Lab](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants) |
+
+---
+
+### 🏢 SAP & Enterprise Systems  
+| **Lab** | **Description** | **Repository** |
+|----------|------------------|----------------|
+| SAP Order-to-Cash (O2C) | Walkthrough of the full O2C cycle in SAP S/4HANA with integration points. | [View Notes](https://github.com/iahalkhatib/SAP-O2C-Process-Lab) |
+| SAP FICO & MM Overview | Study of SAP modules and how they support financial and material management workflows. | [View Notes](https://github.com/iahalkhatib/SAP-FICO-MM-Lab) |
+
+---
+
+### ⚙️ Other Projects & Experiments  
+| **Project** | **Description** | **Repository** |
+|--------------|----------------|----------------|
+| Data Visualization Dashboard | Basic BI dashboard design with Power BI and Tableau datasets. | [View](https://github.com/iahalkhatib/PowerBI-Tableau-Dashboard-Lab) |
+| Python Automation Lab | Workflow automation and CSV processing with Python scripting. | [View](https://github.com/iahalkhatib/Python-Automation-Lab) |
+| WGU Capstone | MBA Capstone research on intelligent systems for business transformation. | [View](https://github.com/iahalkhatib/WGU-MBA-Capstone) |
 
 ---
 
